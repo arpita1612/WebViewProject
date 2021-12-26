@@ -1,0 +1,36 @@
+body {
+    background: white;
+    color: black;
+}
+/* button {
+    width: 80px;
+    height: 30px;
+    margin: 10px;
+    background: white;
+    color: black;
+    outline: none;
+} */
+
+#stopwatch {
+    font-size: 50px;
+    position: absolute;
+    top: 30%;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    height: 100vh;
+}
+
+/* #laps{
+    border-color: black;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%);
+} */
